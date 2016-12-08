@@ -1,4 +1,4 @@
-# ESP8266 Blyss power switch
+# ESP8266 Blyss light-switch
 
 This is an Arduino Sketch for ESP8266 Wifi module to control a light power switch [Blyss&#174;](http://www.castorama.fr/images/products/i/i_664294.jpg) using RF433MHz signal.
 
